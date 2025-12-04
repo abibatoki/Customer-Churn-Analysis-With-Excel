@@ -1,7 +1,7 @@
 # 📉 Customer Churn Analysis with Excel
 
 **🔍 Overall Churn Rate:** 27%  
-**📊 Tools Used:** Excel PivotTables, Calculated Columns, Interactive Dashboard  
+**📊 Tool Used:** Microsoft Excel
 
 ---
 
